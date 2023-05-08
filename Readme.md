@@ -1,7 +1,7 @@
 # REPORT ON ETHEREUM PUSH NOTIFICATION SERVICE(EPNS)
 **By William Adepoju**
 
-## Focused on EPNSCoreV1.sol [https://github.com/ethereum-push-notification-service/push-smart-contracts/blob/master/contracts/EPNSCore/EPNSCoreV1.sol](https://github.com/ethereum-push-notification-service/push-smart-contracts/blob/master/contracts/EPNSCore/EPNSCoreV1.sol)
+## Focused on [EPNSCoreV1.sol](https://github.com/ethereum-push-notification-service/push-smart-contracts/blob/master/contracts/EPNSCore/EPNSCoreV1.sol)
 
 ### What is EPNS?
 
